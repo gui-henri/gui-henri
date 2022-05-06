@@ -1,3 +1,5 @@
+[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+
 Hi, you can call me Gui!
 
  - I'm graduating at Universidade Federal Rural de Pernambuco(UFRPE). I'm finding my way into the development world, experiencing a lot of technologies and languages to find where i fit the best.
