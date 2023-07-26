@@ -1,19 +1,14 @@
 [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
 
-Hi, you can call me Gui!
+<h1>Hi &#129311, you can call me Gui!</h1>
 
- - I'm graduating at Universidade Federal Rural de Pernambuco(UFRPE). I'm finding my way into the development world, experiencing a lot of technologies and languages to find where i fit the best.
+ - I'm graduating at Universidade Federal Rural de Pernambuco(UFRPE) and currently work on Seed a Bit Technology.
  
- - I started in programming a two years ago with Game Development using the Godot Game Engine. It uses a python-like scripting language, that allowed me to learn the various fundamentals in the programming universe.
-
- - A year later, i learned the web fundamentals and started with JavaScript and Node.JS, getting experience with React, Express and Svelte.
-
- - While i studied backend with Node.JS, i also got in touch with Java and Spring Boot. I fell in love with the framework, and now i'm focusing on him as my backend framework of choice.
-
- - At start of the year of 2022, i got into college.
+ - Restless, i'm always willing to learn new technologies and colaborate in the most diverse projects. In my short experience, i already worked with Frontend development using React and NextJS, Mobile development with Flutter and Machine Learning.
  
- - Today, i'm learning the basics of Android development and i plan on learning Flutter in the future. 
+ - Some of the projects that i'm proud of are:
+   - <a href="https://github.com/gui-henri/PISI3"><h3>MoviePicker: </h3></a> Here i developed a full movie recommendation mobile app using Flutter and Machine Learning with Python. It was a big project, sustained by the collaboration of many developers. But even so, i had the opportunity to lead the team as an informal leader.  
+   - <a href="seedabit.org.br"><h3>Seed a Bit Website: </h3></a> My first commercial project at Seed a Bit, my team was responsible for developing the company website in it's totality. Here i used HTML, CSS and Javascript to build advanced features, such as forms and objects with very specific styling. Most of the basic features and the blog were built using Wordpress.
+   - <h3>Freelancing: </h3> I worked as a freelancer in the development of a mobile app, again using Flutter. The aim of the project was to help language teachers identify the terms that students had the most difficulty learning, and thanks to the app, their work was easen.
  
- - I believe that having touch with as many areas as possible while learning the strong fundamentals of maths, data structures and data analysis on college will make me have a good understanding of the whole business, thus a more competent developer.
- 
- - You can contact me here: guihenrique.dev@gmail.com
+ - You can contact me here: ghguihenrique@gmail.com
